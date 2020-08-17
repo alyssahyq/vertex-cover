@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  ECE650A2
-//
-//  Created by 黄怡沁 on 2020/1/30.
-//  Copyright © 2020年 Alyssa Yiqin Huang. All rights reserved.
-//  Feb 9 1:13
 
 #include <iostream>
 #include <string>
